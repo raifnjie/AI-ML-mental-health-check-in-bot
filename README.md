@@ -129,7 +129,7 @@ def respond(msg: Message):
 
 ## Roadmap
 
-**Phase 1 — Foundation (In Progress):**
+**Phase 1 — Foundation:**
 
 * Scaffold repo
 * Basic FastAPI app
@@ -141,7 +141,7 @@ def respond(msg: Message):
 * Create training/evaluation scripts
 * Add MLflow for tracking
 
-**Phase 3 — API & Integration:**
+**Phase 3 — API & Integration(In Progress):**
 
 * Replace placeholder inference with trained model
 * Add more endpoints (feedback, history)
