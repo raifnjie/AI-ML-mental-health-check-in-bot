@@ -1,0 +1,26 @@
+[
+    {
+        "timestamp": "2025-09-20T15:48:29.910256",
+        "text": "Im feeling a bit down today",
+        "sentiment_label": "POSITIVE",
+        "sentiment_score": 0.128
+    },
+    {
+        "timestamp": "2025-09-20T15:48:50.015547",
+        "text": "I feel horrible",
+        "sentiment_label": "NEGATIVE",
+        "sentiment_score": -0.5423
+    },
+    {
+        "timestamp": "2025-09-20T15:49:25.820840",
+        "text": "I just failed my exam and don't know what to do anymore with life. And the job/ internship search has been very difficult ",
+        "sentiment_label": "NEGATIVE",
+        "sentiment_score": -0.7264
+    },
+    {
+        "timestamp": "2025-09-20T15:54:33.809606",
+        "text": "i'm feeling really down today ",
+        "sentiment_label": "POSITIVE",
+        "sentiment_score": 0.128
+    }
+]
